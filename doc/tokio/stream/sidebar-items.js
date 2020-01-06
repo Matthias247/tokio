@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["iter","Converts an `Iterator` into a `Stream` which is always ready to yield the next value."]],"struct":[["Iter","Stream for the [`iter`] function."]],"trait":[["Stream","A stream of values produced asynchronously."],["StreamExt","An extension trait for `Stream`s that provides a variety of convenient combinator functions."]]});
